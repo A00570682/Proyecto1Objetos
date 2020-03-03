@@ -1,0 +1,5 @@
+﻿  Proyecto1.cpp
+C:\Users\berna\Desktop\Adopted Files\Tec de Monterrey\4to Semestre\Programación Orientada a Objetos\1er Parcial\Proyecto 1\Proyecto1\Proyecto1\Proyecto1.cpp(33,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\berna\Desktop\Adopted Files\Tec de Monterrey\4to Semestre\Programación Orientada a Objetos\1er Parcial\Proyecto 1\Proyecto1\Proyecto1\Proyecto1.cpp(10,20): warning C4101: 'n': unreferenced local variable
+C:\Users\berna\Desktop\Adopted Files\Tec de Monterrey\4to Semestre\Programación Orientada a Objetos\1er Parcial\Proyecto 1\Proyecto1\Proyecto1\Proyecto1.cpp(11,6): warning C4101: 'num': unreferenced local variable
+  Proyecto1.vcxproj -> C:\Users\berna\Desktop\Adopted Files\Tec de Monterrey\4to Semestre\Programación Orientada a Objetos\1er Parcial\Proyecto 1\Proyecto1\Debug\Proyecto1.exe
