@@ -28,7 +28,7 @@ int main()
 	while (i< y.length())
 	{
 		arrcod[i] = y[i];
-		cout << arrcod[i];
+		//cout << arrcod[i];
 		i++;
 		y.erase(i, 1);
 	}
@@ -56,7 +56,7 @@ int main()
 			else if (x[i] == arrcod[13]) { x[i] = '/'; }
 			else { x[i] = ' '; }
 
-			cout << x[i];
+			//cout << x[i];
 			archivosal << x[i];
 						
 			i++;
@@ -76,7 +76,7 @@ int main()
 		else if (x.find('*') != -1) { result = num1 * num2; }
 		else if (x.find('/') != -1) { result = num1 / num2; }
 		
-		cout << " = " << result << endl;
+		//gcout << " = " << result << endl;
 		archivosal << " = " << result << endl;
 
 		
